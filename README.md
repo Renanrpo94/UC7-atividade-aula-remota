@@ -9,3 +9,5 @@ Romario clona o projeto, cria a branch teste, cria teste.txt add e commit, e env
 
 Renan cria a branch develop apartir da master, e faz um git merge da branch teste.
 Faz um checkout para a master, e faz um merge da branch develop.
+
+Romário faz um git pull e recebe o arquivo README.md para termino do descritivo do trabalho realizado.
