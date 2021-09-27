@@ -11,3 +11,6 @@ Renan cria a branch develop apartir da master, e faz um git merge da branch test
 Faz um checkout para a master, e faz um merge da branch develop.
 
 Romário faz um git pull e recebe o arquivo README.md para termino do descritivo do trabalho realizado.
+Cria um arquivo .gitignore e adiciona um arquivo que não será enviado para o repositório remoto
+- Finaliza o descritivo no README.md
+
